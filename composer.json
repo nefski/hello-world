@@ -4,7 +4,7 @@
     "description": "Test Client",
     "keywords": ["google", "spreadsheet"],
     "homepage": "https://github.com/nefski/hello-world/",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "Alex",
