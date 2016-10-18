@@ -1,0 +1,16 @@
+{
+    "name": "nefski/helloworld",
+    "description": "sample project to test with composer",
+    "type": "nefski/helloworld",
+    "require": {
+        "asimlqt/php-google-spreadsheet-client": "2.3.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "alexnefski@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
